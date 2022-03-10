@@ -1,7 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.65b13a51.css",
-    "main.js": "/static/js/main.3959ff5e.js",
+    "main.js": "/static/js/main.b913a2f6.js",
+    "static/media/portfolio-2.jpg": "/static/media/portfolio-2.6746eecd5ecbcdfa10cb.jpg",
+    "static/media/portfolio-3.jpg": "/static/media/portfolio-3.e9973b3997523dabdc33.jpg",
+    "static/media/portfolio-1.jpg": "/static/media/portfolio-1.125316ecc31c3bc13f70.jpg",
+    "static/media/portfolio-6.jpg": "/static/media/portfolio-6.26f0136ef608d65d072b.jpg",
+    "static/media/portfolio-5.jpg": "/static/media/portfolio-5.58bc84cbb2ec481a5f94.jpg",
+    "static/media/portfolio-4.jpg": "/static/media/portfolio-4.1720b024f530b75a0e86.jpg",
     "static/media/rahmancaylak.jpg": "/static/media/rahmancaylak.454f98f71fd7afdc947a.jpg",
     "static/media/icon-dev.svg": "/static/media/icon-dev.9f42b3295e8d98105b3b5037212d1873.svg",
     "static/media/icon-design.svg": "/static/media/icon-design.0c8383fedea57a0e32e6a1aa0890f049.svg",
@@ -9,10 +15,10 @@
     "static/media/icon-app.svg": "/static/media/icon-app.c46a8fd74e464da609e9e4d7d86ffbdf.svg",
     "index.html": "/index.html",
     "main.65b13a51.css.map": "/static/css/main.65b13a51.css.map",
-    "main.3959ff5e.js.map": "/static/js/main.3959ff5e.js.map"
+    "main.b913a2f6.js.map": "/static/js/main.b913a2f6.js.map"
   },
   "entrypoints": [
     "static/css/main.65b13a51.css",
-    "static/js/main.3959ff5e.js"
+    "static/js/main.b913a2f6.js"
   ]
 }
