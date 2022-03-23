@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c47e170a.css",
-    "main.js": "/static/js/main.3e7bcd2c.js",
-    "static/media/portfolio-3.webp": "/static/media/portfolio-3.9fe4fa0cd489efea1677.webp",
-    "static/media/portfolio-1.webp": "/static/media/portfolio-1.e2f066c7f250961c7819.webp",
-    "static/media/portfolio-6.webp": "/static/media/portfolio-6.587f572e224187c041db.webp",
-    "static/media/portfolio-2.webp": "/static/media/portfolio-2.2acdb37492e367957f33.webp",
-    "static/media/portfolio-5.webp": "/static/media/portfolio-5.bf62ce2b9bc72a0084e2.webp",
-    "static/media/portfolio-4.webp": "/static/media/portfolio-4.7b1fffffa34f08fac63d.webp",
+    "main.js": "/static/js/main.77c5ef01.js",
+    "static/media/tours-portfolio-thumbnail.webp": "/static/media/tours-portfolio-thumbnail.91d4cd67ec5cb1917c0d.webp",
+    "static/media/bacon-ipsum-portfolio-thumbnail.webp": "/static/media/bacon-ipsum-portfolio-thumbnail.08c6a89dc79ca2fe5ade.webp",
+    "static/media/food-menu-portfolio-thumbnail.webp": "/static/media/food-menu-portfolio-thumbnail.dd5c27b742201268493a.webp",
+    "static/media/tabs-portfolio-thumbnail.webp": "/static/media/tabs-portfolio-thumbnail.5f961071b29a6c1526e0.webp",
+    "static/media/accordion-portfolio-thumbnail.webp": "/static/media/accordion-portfolio-thumbnail.543e500b5324bbdaf921.webp",
     "static/media/rahmancaylak.webp": "/static/media/rahmancaylak.79c4ed685942a0802569.webp",
+    "static/media/grocery-bud-portfolio-thumbnail.webp": "/static/media/grocery-bud-portfolio-thumbnail.0de8d791dbf20f1eb08a.webp",
     "index.html": "/index.html",
     "main.c47e170a.css.map": "/static/css/main.c47e170a.css.map",
-    "main.3e7bcd2c.js.map": "/static/js/main.3e7bcd2c.js.map"
+    "main.77c5ef01.js.map": "/static/js/main.77c5ef01.js.map"
   },
   "entrypoints": [
     "static/css/main.c47e170a.css",
-    "static/js/main.3e7bcd2c.js"
+    "static/js/main.77c5ef01.js"
   ]
 }
