@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c47e170a.css",
-    "main.js": "/static/js/main.77c5ef01.js",
+    "main.css": "/static/css/main.7df03b87.css",
+    "main.js": "/static/js/main.d9077635.js",
     "static/media/tours-portfolio-thumbnail.webp": "/static/media/tours-portfolio-thumbnail.91d4cd67ec5cb1917c0d.webp",
     "static/media/bacon-ipsum-portfolio-thumbnail.webp": "/static/media/bacon-ipsum-portfolio-thumbnail.08c6a89dc79ca2fe5ade.webp",
     "static/media/food-menu-portfolio-thumbnail.webp": "/static/media/food-menu-portfolio-thumbnail.dd5c27b742201268493a.webp",
@@ -10,11 +10,11 @@
     "static/media/rahmancaylak.webp": "/static/media/rahmancaylak.79c4ed685942a0802569.webp",
     "static/media/grocery-bud-portfolio-thumbnail.webp": "/static/media/grocery-bud-portfolio-thumbnail.0de8d791dbf20f1eb08a.webp",
     "index.html": "/index.html",
-    "main.c47e170a.css.map": "/static/css/main.c47e170a.css.map",
-    "main.77c5ef01.js.map": "/static/js/main.77c5ef01.js.map"
+    "main.7df03b87.css.map": "/static/css/main.7df03b87.css.map",
+    "main.d9077635.js.map": "/static/js/main.d9077635.js.map"
   },
   "entrypoints": [
-    "static/css/main.c47e170a.css",
-    "static/js/main.77c5ef01.js"
+    "static/css/main.7df03b87.css",
+    "static/js/main.d9077635.js"
   ]
 }
